@@ -3,7 +3,7 @@
 ## GENERATING FANCY RESTAURANT NAME AND IT'S MENU ITEMS USING LANGCHAIN AND DESIGNING STREAMLIT-BASED WEB APPLICATION FOR THE GENERATED RESTAURANT NAME AND IT'S MENU ITEMS
 
 
-### WORKFLOW OF STREAMLIT BASED WEB APP FOR GENERATING FANCY RESTAURANT NAME AND ITS MENU ITEMS USING LANGCHAIN
+### WORKFLOW OF STREAMLIT BASED WEB APP FOR GENERATING FANCY RESTAURANT NAME AND IT'S MENU ITEMS USING LANGCHAIN
 
 - Installing Necessary Libraries
 - Importing Necessary Modules
@@ -16,6 +16,5 @@
 
 ### FILES
 
-- li-lin-rZcC9J5ZT6I-unsplash_jpg.rf.77e6368bd6381ff5a119b1a4a09af9a3.jpg - Sample Prediction Image
-- hardhat.mp4                                                             - Sample Prediction Video
-- YOLO-based Architecture for Construction Site Safety Detection.ipynb    - Jupyter Notebook (Python Code) for Construction Site Safety Detection
+- Demo.webm                                                                         - Sample Web Application Working Video
+- Restaurant_Name_and_it's_Menu_Items_Generator_using_LangChain_and_Streamlit.ipynb - Jupyter Notebook (Python Code) for Streamlit based Web App for generating Fancy Restaurant Name and It's Menu Items using Langchain
